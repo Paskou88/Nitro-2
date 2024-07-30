@@ -1,6 +1,8 @@
 <form action="action_page.php">
   <div class="container">
+
     <h1>Build code with maven and create an image on ansible and push it onto dockerhub and pull it onto kubernetes </h1>
+
     <p>Please fill in this form to create an account.</p>
     <hr>
      
